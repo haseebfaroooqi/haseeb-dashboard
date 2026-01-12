@@ -439,7 +439,7 @@ elif page == "💾 Export Data":
 
 # --- CV / RESUME PAGE (LAST POSITION) ---
 elif page == "📄 My CV / Resume":
-    st.title("📄 Curriculum Vitae")
+    st.title("📄 resume")
     
     # 1. Header with Circular Image
     st.markdown("<div class='glass-card'>", unsafe_allow_html=True)
